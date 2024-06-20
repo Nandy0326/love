@@ -1,0 +1,40 @@
+.conta{
+    text-align: center;
+    text-decoration: double;
+    
+}
+span{
+    color: blue;
+}
+
+
+.playwrite-pl {
+  font-family: "Playwrite PL", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+body{
+    background-image: url(./1668523445263.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color:navy;
+    font-size: 15px;
+    border: 5px solid red;
+    height:700px;
+    
+}
+.agreement
+{
+        margin:100px;
+        margin-left:10px;
+
+}
+.queen{
+    margin-left: 1200px;
+    color:blueviolet;
+
+
+}
